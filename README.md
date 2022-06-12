@@ -3,7 +3,7 @@
 ## Aim:
  To write a C# program to find the volume of a box using operator overloading
  
-##Algorithm:
+## Algorithm:
 
 Step1:
 Create a class for operator overloading.
@@ -21,7 +21,7 @@ Step5:
 After that print the calculated volume.
  
  
-##Program:
+## Program:
 ```python
 using System;
 class example
@@ -60,9 +60,10 @@ class example
 }
 ```
  
- ##Output:
+ ## Output:
+ 
  ![output1](https://user-images.githubusercontent.com/75235022/173238702-2440c93d-2d12-4f72-a049-5526dd5fba0d.png)
 
  
- ##Result:
+ ## Result:
 C# program to find the volume of a box using operator overloading is implemented successfully.
